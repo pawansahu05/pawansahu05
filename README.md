@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MD ATIF KALIM
+# 👋 Hi, I'm PAWAN
 
 
 💡 **Data Analyst | Python | SQL | Excel | Power BI | R Programming | Turning Raw Data into Actionable Insights**  
@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 About Me  
-- 🎓 BCA Student passionate about **Data Analytics & AI**  
+- 🎓 BA Student passionate about **Data Analytics & AI**  
 - 📊 Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel, R**  
 - 🧩 Strong problem-solving mindset & analytical thinking  
 - 📈 Interested in **Data Visualization, Machine Learning, and Automation**  
@@ -17,16 +17,16 @@
 ## 🚀 Projects  
 
 ### 🔹 Python Projects  
-- [**Python-Project**](https://github.com/mdatifkalim/Python-Project) – A collection of advanced and practical Python projects, showcasing programming, automation, and AI.  
+- [**Python-Project**]( ) – A collection of advanced and practical Python projects, showcasing programming, automation, and AI.  
 
 ### 🔹 Excel Projects  
-- [**Excel-Project**](https://github.com/mdatifkalim/Excel-Project) – A collection of Excel projects, highlighting dashboards, data cleaning, and reporting.
+- [**Excel-Project**]() – A collection of Excel projects, highlighting dashboards, data cleaning, and reporting.
   
 ### 🔹 MySQL Projects  
-- [**MySQL-Project**](https://github.com/mdatifkalim/MySQL-Project) – A collection of SQL projects demonstrating data querying, database design, and analysis skills using complex joins, subqueries, and aggregate functions.
+- [**MySQL-Project**]() – A collection of SQL projects demonstrating data querying, database design, and analysis skills using complex joins, subqueries, and aggregate functions.
   
    🔹 Power BI Projects  
-- [**Power BI-Project**](https://github.com/mdatifkalim/Python-Project) – A collection of Power BI dashboards and reports showcasing data visualization, KPI tracking, and business insights through interactive analytics.
+- [**Power BI-Project**]() – A collection of Power BI dashboards and reports showcasing data visualization, KPI tracking, and business insights through interactive analytics.
   
 ---
 
