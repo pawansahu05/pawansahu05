@@ -1,0 +1,71 @@
+# 👋 Hi, I'm MD ATIF KALIM
+
+
+💡 **Data Analyst | Python | SQL | Excel | Power BI | R Programming | Turning Raw Data into Actionable Insights**  
+
+---
+
+## 🔥 About Me  
+- 🎓 BCA Student passionate about **Data Analytics & AI**  
+- 📊 Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel, R**  
+- 🧩 Strong problem-solving mindset & analytical thinking  
+- 📈 Interested in **Data Visualization, Machine Learning, and Automation**  
+- ⚡ Typing Speed: 40+ WPM  
+
+---
+
+## 🚀 Projects  
+
+### 🔹 Python Projects  
+- [**Python-Project**](https://github.com/mdatifkalim/Python-Project) – A collection of advanced and practical Python projects, showcasing programming, automation, and AI.  
+
+### 🔹 Excel Projects  
+- [**Excel-Project**](https://github.com/mdatifkalim/Excel-Project) – A collection of Excel projects, highlighting dashboards, data cleaning, and reporting.
+  
+### 🔹 MySQL Projects  
+- [**MySQL-Project**](https://github.com/mdatifkalim/MySQL-Project) – A collection of SQL projects demonstrating data querying, database design, and analysis skills using complex joins, subqueries, and aggregate functions.
+  
+   🔹 Power BI Projects  
+- [**Power BI-Project**](https://github.com/mdatifkalim/Python-Project) – A collection of Power BI dashboards and reports showcasing data visualization, KPI tracking, and business insights through interactive analytics.
+  
+---
+
+## 🛠️ Skills  
+
+### 🔹 Programming & Data  
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🔹 Visualization  
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-005C9C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel%20Dashboards-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### 🔹 Tools  
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mdatifkalim)  
+
+---
+
+✨ *"Data is the new oil, but insight is the engine."*  
